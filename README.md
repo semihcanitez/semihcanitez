@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **semihcanitez/semihcanitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Merhabalar 👋
+
+İTÜ Mesleki ve Teknik Anadolu Lisesi Bilişim Teknolojileri Hazırlık Sınıfı öğrencisiyim. Kendimi kodlama ve algoritma alanlarında geliştirmeye çalışıyorum. Şu anda Insider ve Kodluyoruz iş birliğiyle hayata geçirilen ve İstanbul’da okuyan lise öğrencilerine HTML, CSS, JavaScript alanlarında eğitim vermek ve geliştirmek amacıyla başlatılan projede eğitim almaktayım. 
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=semihcanitez&layout=compact&show_icons=true&theme=dracula)
+![Github stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=semihcanitez&layout=compact&show_icons=true&theme=dracula)
+
+<a href="https://www.linkedin.com/in/semihcanitez/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a>
