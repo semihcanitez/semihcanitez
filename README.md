@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Merhabalar 👋
 
-İTÜ Mesleki ve Teknik Anadolu Lisesi Bilişim Teknolojileri 9.Sınıf öğrencisiyim. Kendimi kodlama ve algoritma alanlarında geliştirmeye çalışıyorum. Şu anda Insider şirketinde stajyer olarak çalışıyorum.
+İTÜ Mesleki ve Teknik Anadolu Lisesi Bilişim Teknolojileri 9.Sınıf öğrencisiyim. Kendimi kodlama ve algoritma alanlarında geliştirmeye çalışıyorum.
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=semihcanitez&layout=compact&show_icons=true&theme=dracula)
 ![Github stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=semihcanitez&layout=compact&show_icons=true&theme=dracula)
